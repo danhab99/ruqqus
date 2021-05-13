@@ -61,5 +61,6 @@ urllib3==1.25.11
 webencodings==0.5.1
 websockets==8.1
 Werkzeug==0.15.5
+yattag==1.14.0
 yarl==1.5.1
 zipp==3.4.0
